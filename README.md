@@ -6,7 +6,7 @@ Final BTK.ipynb will create a dataframe to display all the statistics
 
 My results replicate Stony Brook University's 2020 Paper. https://arxiv.org/pdf/2006.16079.pdf
 
-![Batch Testing Results](Batch Testing Results.png)
+![Batch Testing Results](Batch_Testing_Results.png)
 
 ## Mult Stage Batch Testing with Dilution Effect Considerations
 Dilution Effect Considerations are implemented with this paper
