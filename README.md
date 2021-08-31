@@ -9,7 +9,7 @@ My results replicate Stony Brook University's 2020 Paper. https://arxiv.org/pdf/
 ![Batch Testing Results](Batch_Testing_Results.png)
 
 ## Mult Stage Batch Testing with Dilution Effect Considerations
-Dilution Effect Considerations are implemented with this paper
+Dilution Effect Considerations are introduced with this paper (pages 6-8)
 https://arxiv.org/abs/2008.06642
 
 ### gamma_eta_n_d.py
