@@ -1,5 +1,8 @@
 # Multi Stage Batch Testing with Dilution Effect Considerations
 
+Link to Comprehensive Slide Presentation
+https://docs.google.com/presentation/d/1DUTcTp5IZ67zpCfv_3nZZue2eKuF44Oy3TqNYrNUFHU/edit?usp=sharing
+
 ## Mult Stage Batch Testing without Dilution Effect Considerations
 Regular_Batch_Testing.py is the main source code with all the functions and logic to produce results of the multi-stage batch testing simulation.
 Final BTK.ipynb will create a dataframe to display all the statistics
