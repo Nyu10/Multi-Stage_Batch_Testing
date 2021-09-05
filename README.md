@@ -1,7 +1,7 @@
 # Multi Stage Batch Testing with Dilution Effect Considerations
 
 Link to Comprehensive Slide Presentation
-https://docs.google.com/presentation/d/1DUTcTp5IZ67zpCfv_3nZZue2eKuF44Oy3TqNYrNUFHU/edit?usp=sharing
+https://docs.google.com/presentation/d/e/2PACX-1vTL9pyUC_6_Z0p7y6VcKIxVWxXN9pqGPOL7W06WioFf9_7QY0MMK-lhv7lDwHyFilE8LoUxtIkvwiB6/pub?start=false&loop=false&delayms=3000
 
 ## Mult Stage Batch Testing without Dilution Effect Considerations
 Regular_Batch_Testing.py is the main source code with all the functions and logic to produce results of the multi-stage batch testing simulation.
